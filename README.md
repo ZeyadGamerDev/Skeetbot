@@ -1,0 +1,2 @@
+# Skeetbot
+nothing
